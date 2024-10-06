@@ -6,11 +6,11 @@
 <br/>
 <div align="center">
 
- 🔭 I'm currently working in **JECRC Foundation, Jaipur**
+🔭 I'm currently working in **JECRC Foundation, Jaipur**
 
- 🌱 I'm currently learning **Data Structures and Algorithm with Java | Backend - GraphQL**
+🌱 I'm currently learning **Data Structures and Algorithm with Java | Backend - GraphQL**
 
- 💬 Ask me about **Web Development, Javascript, React, Java, Nodejs, MongoDB, MySQL**
+💬 Ask me about **Web Development, Javascript, React, Java, Nodejs, MongoDB, MySQL**
 
 </div>
 
@@ -26,6 +26,8 @@
   </a>
 </div>
  <hr/>
+
+<div align="center">
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <table>
@@ -58,6 +60,7 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,linkedin,arduino,notion,gmail&theme=dark"></td>
 </tr>
 </table>
+</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
