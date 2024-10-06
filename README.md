@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Engineer | Web Developer | DSA | Java</h3>
 <br/>
-<div align="left">
+<div align="center">
 
  🔭 I'm currently working in **JECRC Foundation, Jaipur**
 
@@ -28,44 +28,57 @@
  <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript" />
-    <img src="https://skillicons.dev/icons?i=c" />
-    <img src="https://skillicons.dev/icons?i=java" />
-    <img src="https://skillicons.dev/icons?i=cpp" />
-    <img src="https://skillicons.dev/icons?i=py" />
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=gmail" />
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=expressjs" />
-    <img src="https://skillicons.dev/icons?i=tailwindcss" />
-    <img src="https://skillicons.dev/icons?i=md" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=notion" />
-    <img src="https://skillicons.dev/icons?i=npm" />
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=arduino" />
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=github" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=postman" />
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    <img src="https://skillicons.dev/icons?i=figma" />
-</div>
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwindcss&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,md,postman,npm&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Other Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,linkedin,arduino,notion,gmail&theme=dark"></td>
+</tr>
+</table>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=vaibhav-samdani&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vaibhav-samdani&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-samdani&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="streak stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-samdani&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhav-samdani&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaibhav-samdani&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhav-samdani&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhav-samdani&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaibhav-samdani&theme=github_dark" />
+</div>
+<br/>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-samdani&theme=darkhub&column=8&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 <hr/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-samdani&theme=merko" alt="Vaibhav Samdani's github activity graph"/>
 <hr/>
 <br/>
