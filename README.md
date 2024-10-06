@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Engineer | Web Developer | DSA | Java</h3>
 <br/>
-<div align="center">
+<div align="left">
 
  🔭 I'm currently working in **JECRC Foundation, Jaipur**
 
