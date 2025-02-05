@@ -52,6 +52,10 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwindcss&theme=dark"></td>
 </tr>
 <tr>
+	<td><strong>Libraries</strong></td>
+	<td><img height=40 src = "https://img.shields.io/badge/-Pandas-311C87?style=for-the-badge&logo=pandas"> <img height=40 src = "https://img.shields.io/badge/Numpy-%23326ce5.svg?style=for-the-badge&logo=numpy&logoColor=white">  </td>
+</tr>
+<tr>
 	<td><strong>Developer Tools</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,md,postman,npm&theme=dark"></td>
 </tr>
