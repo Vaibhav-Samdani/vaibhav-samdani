@@ -6,11 +6,11 @@
 <br/>
 <div align="center">
 
-🔭 I'm currently working in **JECRC Foundation, Jaipur**
+🔭 I'm currently studying in **JECRC Foundation, Jaipur**
 
-🌱 I'm currently learning **Data Structures and Algorithm with Java | Backend - GraphQL**
+🌱 I'm currently learning **Data Structures and Algorithm with Java | Machine Learning**
 
-💬 Ask me about **Web Development, Javascript, React, Java, Nodejs, MongoDB, MySQL**
+💬 Ask me about **Web Development, Javascript, React, Java, Nodejs, MongoDB, MySQL, Pandas, Numpy**
 
 </div>
 
