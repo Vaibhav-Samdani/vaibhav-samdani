@@ -33,7 +33,7 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
