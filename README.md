@@ -33,23 +33,25 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,next" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs,prisma&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwindcss&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwindcss,scss&theme=dark">
+	<img height=40 src = "https://img.shields.io/badge/-Shadcn-311C87?style=for-the-badge&logo=shadcn">
+	</td>
 </tr>
 <tr>
 	<td><strong>Libraries</strong></td>
