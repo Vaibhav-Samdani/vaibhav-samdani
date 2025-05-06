@@ -50,7 +50,7 @@
 <tr>
 	<td><strong>Frameworks</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwindcss,scss&theme=dark">
-	<img height=40 src = "https://img.shields.io/badge/-Shadcn-311C87?style=for-the-badge&logo=shadcn">
+	<img height=40 src = "https://img.shields.io/badge/-Shadcn-ffffff?style=for-the-badge&logo=shadcn">
 	</td>
 </tr>
 <tr>
