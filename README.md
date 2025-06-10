@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img align="left" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vaibhav%20Samdani!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vaibhav%20Samdani!;" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav-samdani.vaibhav-samdani" />
 </h1>
 <h3 align="left">Engineer | Web Developer | DSA | Java</h3>
