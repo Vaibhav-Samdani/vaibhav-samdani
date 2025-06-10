@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav-samdani.vaibhav-samdani" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav-samdani.vaibhav-samdani" />
 <h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vaibhav%20Samdani!;" />
 </h1>
@@ -71,7 +71,7 @@
 
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-samdani&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="streak stats"/>
   <br/>
 </div>
