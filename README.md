@@ -8,9 +8,9 @@
 
 🔭 I'm currently studying in **JECRC Foundation, Jaipur**
 
-🌱 I'm currently learning **Data Structures and Algorithm with Java | Machine Learning**
+🌱 I'm currently learning **Data Structures and Algorithm with Java** and building **Machine Learning**
 
-💬 Ask me about **Web Development, Javascript, React, Java, Nodejs, MongoDB, MySQL, Pandas, Numpy**
+💬 Ask me about **Web Development, Nextjs, Expresssjs, Javascript, React, Java, Nodejs, MongoDB, PostgreSQL, Pandas, Numpy**
 
 </div>
 
