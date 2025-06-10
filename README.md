@@ -1,7 +1,7 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav-samdani.vaibhav-samdani" />
 <h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vaibhav%20Samdani!;" />
 </h1>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav-samdani.vaibhav-samdani" />
 <h3 align="left">Engineer | Web Developer | DSA | Java</h3>
 <br/>
 <div align="left">
