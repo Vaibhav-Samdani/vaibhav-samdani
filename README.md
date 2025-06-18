@@ -41,7 +41,8 @@
 
 ## ⚡ GitHub Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-samdani&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaibhav-samdani&theme=transparent&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhav-samdani&theme=github_dark)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaibhav-samdani&theme=github_dark)![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhav-samdani&theme=github_dark)
