@@ -20,7 +20,7 @@
 
 ### 📫 Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vaibhavsamdani.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-samdani/) [![Twitter](https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/samdanivaibhav_)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dev@vaibhavsamdani.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-samdani/) [![Twitter](https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/samdanivaibhav_)
 
 ---
 
